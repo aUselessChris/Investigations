@@ -113,4 +113,6 @@ Chapter 3 on Alex Hong is also featured in [Tayvano's research on DPRK](https://
 [Chapter 15: A verification tutorial.](https://x.com/aUselessChris/status/1942290577237635220)
   
 [Chapter 16: The $WCO airdrop.](https://x.com/aUselessChris/status/1945776955711746129)
-  
+
+**Other resources**  
+[The FUnD Files: A Data-Driven Breakdown on the history of Wadzpay](https://docs.google.com/spreadsheets/d/17eV4NUwv9PoVqbVx7EfWneY2_pH1moSHIQPuq5Q7ySI/edit?usp=sharing)
