@@ -31,3 +31,4 @@ Live document
 [Official Statement on the WTK Incident](https://web.archive.org/web/20250722074550/https://w-chain.com/wp-content/uploads/2025/05/Official-Statement-on-the-WTK-Incident-11-October-2024.pdf)  
 [Singapore Police Report regarding the WTK Security Incident](https://web.archive.org/web/20250722074547/https://w-chain.com/wp-content/uploads/2025/05/protected_police_report.pdf)  
 [Live AMA Recap with Stas Madorski 30 Sep 2021](https://web.archive.org/web/20220817141229/https://wadzpay.medium.com/live-ama-recap-with-stas-madorski-vice-president-blockchain-marketing-wadzpay-e23a8d26b57f)  
+[Chainabuse report](https://www.chainabuse.com/report/39811e74-0f54-43d0-b1e3-8d8aeb80e72a)  
