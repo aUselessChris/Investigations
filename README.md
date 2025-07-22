@@ -121,4 +121,7 @@ Live document
 [The FUnD Files: A Data-Driven Breakdown on the history of Wadzpay (Github .pdf)](https://github.com/aUselessChris/Investigations/blob/main/Wadzpay%20(W-Chain)/The%20FUnD%20Files-%20A%20Data-Driven%20Breakdown%20on%20the%20history%20of%20Wadzpay.pdf)  
 [The FUnD Files: A Data-Driven Breakdown on the history of Wadzpay (Github .xlsx)](https://github.com/aUselessChris/Investigations/blob/main/Wadzpay%20(W-Chain)/The%20FUnD%20Files-%20A%20Data-Driven%20Breakdown%20on%20the%20history%20of%20Wadzpay.xlsx)  
   
-[Tech in Asia article "WadzPay tried to fake it to make it. Then we found out"](https://archive.ph/2022.03.29-064948/https://www.techinasia.com/wadzpay-fake)
+[Tech in Asia article "WadzPay tried to fake it to make it. Then we found out"](https://archive.ph/2022.03.29-064948/https://www.techinasia.com/wadzpay-fake)  
+[Official Statement on the WTK Incident](https://web.archive.org/web/20250722074550/https://w-chain.com/wp-content/uploads/2025/05/Official-Statement-on-the-WTK-Incident-11-October-2024.pdf)  
+[Singapore Police Report regarding the WTK Security Incident](https://web.archive.org/web/20250722074547/https://w-chain.com/wp-content/uploads/2025/05/protected_police_report.pdf)  
+[Live AMA Recap with Stas Madorski 30 Sep 2021](https://web.archive.org/web/20220817141229/https://wadzpay.medium.com/live-ama-recap-with-stas-madorski-vice-president-blockchain-marketing-wadzpay-e23a8d26b57f)  
